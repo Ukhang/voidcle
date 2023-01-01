@@ -16,7 +16,7 @@ const HeadTag = ({title, des, kew, auth}: HeadTagProps) => {
             <meta name="keywords" content={kew}/>
             <meta name="author" content={auth}/>
             <link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
-            <title> {title} </title>
+            <title>{`${title}`}</title>
        </Head>
     )
 }
