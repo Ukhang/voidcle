@@ -37,7 +37,7 @@ export default function Home() {
         <div className="max-w-3xl mx-auto md:px-6 px-3 lg:mt-8 mt-4">
           {/* ==== Heading text ==== */}
           <h1 className="text-[#0F172A] dark:text-[#FFFFFF] font-semibold md:text-6xl sm:text-5xl text-4xl">
-            Know Better About The 
+            Know Better About Thes 
             <span className={`${vt323.className} md:text-7xl sm:text-6xl text-5xl flex flex-wrap items-center gap-5`}> 
               Software World
               <img src="https://thumbs.gfycat.com/YearlyLoneBarnowl.webp" loading="lazy" alt="Typing moneky" className="md:w-[72px] sm:w-[62px] w-[52px]" width={72} height={72} />
