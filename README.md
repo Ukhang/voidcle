@@ -11,8 +11,19 @@
 ## Voidcle Link 🔗
 [voidcle.software](https://voidcle.software)
 
+## Project Structure
+```
+$PROJECT_ROOT
+|   # Page files
+|--- pages
+|   # React component files
+|--- components
+|   # Static files for images file
+|--- Public
+```
+
 ## About 👋
-Voidke is my startup web application 💻. Which is made for software developers or coders. Here a lot of things related to software can be known 🖱️.
+Voidcle is my startup web application 💻. Which is made for software developers or coders. Here a lot of things related to software can be known 🖱️.
 
 ## Future ✅
 There are plans to add many software related things like code tracker and code issue adding and project uploading system in future.
