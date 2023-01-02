@@ -12,4 +12,4 @@
 [voidcle.software](https://voidcle.software)
 
 ## About 👋
-Voidke is my startup web application 💻. Which is made for new software developers or coders. Here a lot of things related to software can be known 🖱️.
+Voidke is my startup web application 💻. Which is made for software developers or coders. Here a lot of things related to software can be known 🖱️.
