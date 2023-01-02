@@ -26,4 +26,4 @@ $PROJECT_ROOT
 Voidcle is my startup web application 💻. Which is made for software developers or coders. Here a lot of things related to software can be known 🖱️.
 
 ## Future ✅
-There are plans to add many software related things like code tracker and code issue adding and project uploading system in future.
+There are plans to add many software related things like code tracker and code issue adding and project uploading, shearing system in future.
